@@ -24,3 +24,7 @@ To identify significant predictors of heart disease using data analysis and mode
 ## 📁 Files
 - `heart-analysis.ipynb` — full notebook analysis
 - `heart.csv` — dataset used
+- `heart_disease_dashboard.html`
+
+## Interactive Dashboard
+[View Heart Disease Dashboard](https://saiharshi1.github.io/heart-disease-analysis/heart_disease_dashboard.html)
